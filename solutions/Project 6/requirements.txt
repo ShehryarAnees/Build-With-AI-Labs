@@ -1,0 +1,8 @@
+Python 3.6 or newer
+Streamlit
+Google's Generative AI library (google.generativeai)
+pdf2image
+PIL (Pillow)
+base64
+io
+dotenv for environment variable management
